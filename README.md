@@ -63,6 +63,7 @@ Este bloque define color base, que es azul verdoso, también define que los píx
   <img src="Grabación-de-pantalla-2025-11-21-091020.gif" width="300" alt="Resultado final con distorsión de onda" style="vertical-align: middle;"/>
 </p>
 <p align="center">
-  Resultado final sin distorsión de onda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Resultado final sin distorsión de onda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Resultado final con distorsión de onda
+
 </p>
