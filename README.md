@@ -7,8 +7,8 @@ Se nos pide desarrollar un shader de fragmentos con patrones generativo, asegura
 ## Motivación
 Este shader se podría usar (adaptandolo un poco), a muchos escenarios tales como:
 
-    - En el proyecto que hicimos del sistema solar, para que La Tierra tuviera este shader en las zonas donde hay agua.
-    - En una demo de un juego que en algún escenario estuviera este shader. Como por ejemplo, en un mar abierto o en una piscina.
+- En el proyecto que hicimos del sistema solar, para que La Tierra tuviera este shader en las zonas donde hay agua.
+- En una demo de un juego que en algún escenario estuviera este shader. Como por ejemplo, en un mar abierto o en una piscina.
 
 ## Desarrollo
 Primero se definen los uniforms:
@@ -18,9 +18,9 @@ uniform vec2 u_resolution,u_mouse;
 ```
 Cada uno tiene su función que se describe a continuación:
 
-    - u_time: Se usa para animar el patrón dinámicamente.
-    - u_resolution: Resolución de la pantalla o canvas (ancho y alto). Se usa para normalizar coordenadas de píxeles.
-    - u_mouse: Permite la interacción con el patrón, mediante el ratón.
+- u_time: Se usa para animar el patrón dinámicamente.
+- u_resolution: Resolución de la pantalla o canvas (ancho y alto). Se usa para normalizar coordenadas de píxeles.
+- u_mouse: Permite la interacción con el patrón, mediante el ratón.
     
 Luego, las coordenadas normalizadas del píxel
 
@@ -63,6 +63,6 @@ Este bloque define color base, que es azul verdoso, también define que los píx
   <img src="Grabación-de-pantalla-2025-11-21-091020.gif" width="300" alt="Resultado final con distorsión de onda" style="vertical-align: middle;"/>
 </p>
 <p align="center">
-  Resultado final sin distorsión de onda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Resultado final sin distorsión de onda &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Resultado final con distorsión de onda
 </p>
